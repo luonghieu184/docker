@@ -1,6 +1,6 @@
 
 ## Hướng dẫn chạy
-### Bước 1: 'npm install' phiên bản 10.16.0
+### Bước 1: `npm install` phiên bản <strong>10.16.0</strong>
 ### Bước 2: `yarn start`
 
 Chạy ứng dụng trong chế độ phát triển. <br />
